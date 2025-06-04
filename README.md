@@ -1,3 +1,3 @@
 # POO-CEUB
 
-Mensão 2 - Revisada.
+Menção 2 - Revisada.
